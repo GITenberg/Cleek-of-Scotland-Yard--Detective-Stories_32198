@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5480
     wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Hanshew
 description: 'Cleek: man of forty faces.-Cleek of Scotland Yard.-Cleek, master detective.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32198#Cleek-of-Scotland-Yard--Detective-Stories
 gutenberg_issued: '2010-05-01'
 gutenberg_type: Text
 identifiers:
